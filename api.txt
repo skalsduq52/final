@@ -1,2 +1,0 @@
-docs/oracle.com/javase/8/docs/api/
-docs/spring.io/spring-framework/docs/current/reference/html/
